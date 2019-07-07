@@ -1,9 +1,8 @@
 //Jamil Khan
-//CECS 282 - 05
 //Prog 2 - myDate Object
 //Oct 4, 2018
 
-#include "myDate.h" // X-code users change this to myDate.hpp
+#include "myDate.h"
 #include <iostream>
 using namespace std;
 
@@ -89,7 +88,7 @@ int main()
 			}
 		}
 	}
-	cout << "\b\b ";  // get rid of the last comma
+	cout << "\b\b ";
 	cout << "\n\nHere's the number of the above leap years:" << leapSum << endl;
 	cout << "\n\nPress enter to continue";
 	getchar();
