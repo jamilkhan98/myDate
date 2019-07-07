@@ -1,5 +1,4 @@
 //Jamil Khan
-//CECS 282 - 05
 //Prog 2 - myDate Object
 //Oct 4, 2018
 
